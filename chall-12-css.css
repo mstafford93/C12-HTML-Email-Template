@@ -118,7 +118,15 @@ div img {
 
 .top-social-info {
     display: flex;
-    justify-content: space-between;
+    
+}
+
+.top-social-info button {
+    margin-left: 2rem;
+}
+
+.box-4 h2 {
+    font-size: 3rem;
 }
 
 .box-4 h1 {
@@ -187,6 +195,12 @@ div img {
 
     .top-social-info {
         display: block;
+    }
+
+    .box-4 h2 {
+        font-size: 1.5rem;
+        margin-right: 2rem;
+        margin-left: -1rem;
     }
 
     .top-social-info button {
